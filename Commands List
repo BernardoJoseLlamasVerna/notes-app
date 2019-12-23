@@ -1,0 +1,16 @@
+
+Commands list on this project:
+-----------------------------
+Función Add:
+node app.js add --title=8 --body='hola'
+
+Función Read:
+node app.js read --title="Mamandurrias"
+
+Función List:
+node app.js list --title="Mamandurrias"
+
+Función Remove:
+node app.js remove --title="Mamandurrias"
+
+
